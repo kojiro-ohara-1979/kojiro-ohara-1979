@@ -85,7 +85,8 @@ def build():
                 f'fill="freeze"/></rect></clipPath>'
             )
             els.append(
-                f'<text x="{PAD_X + prompt_w}" y="{y}" fill="{FG}" clip-path="url(#{cid})">{escape(cmd)}</text>'
+                f'<text x="{PAD_X + prompt_w}" y="{y}" fill="{FG}" opacity="0" clip-path="url(#{cid})">'
+                f'{escape(cmd)}<set attributeName="opacity" to="1" begin="{t:.2f}s" fill="freeze"/></text>'
             )
             t += dur + AFTER_CMD
             y += LINE_H

@@ -7,10 +7,10 @@
 <text x="410.0" y="20" fill="#8b949e" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" text-anchor="middle">kojiro-ohara-1979 — zsh</text>
 <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="14" xml:space="preserve">
 <text x="20" y="52" fill="#3fb950" opacity="0">kojiro-ohara-1979@github:~$ <set attributeName="opacity" to="1" begin="0.60s" fill="freeze"/></text>
-<text x="255.20000000000002" y="52" fill="#e6edf3" clip-path="url(#c0)">whoami</text>
+<text x="255.20000000000002" y="52" fill="#e6edf3" opacity="0" clip-path="url(#c0)">whoami<set attributeName="opacity" to="1" begin="0.90s" fill="freeze"/></text>
 <text x="20" y="74" fill="#e6edf3" opacity="0">Kojiro Ohara - Head of Service Development @ Fleekdrive Inc. / Solxyz Co., Ltd.<set attributeName="opacity" to="1" begin="1.67s" fill="freeze"/></text>
 <text x="20" y="118" fill="#3fb950" opacity="0">kojiro-ohara-1979@github:~$ <set attributeName="opacity" to="1" begin="2.29s" fill="freeze"/></text>
-<text x="255.20000000000002" y="118" fill="#e6edf3" clip-path="url(#c3)">cat career.log</text>
+<text x="255.20000000000002" y="118" fill="#e6edf3" opacity="0" clip-path="url(#c3)">cat career.log<set attributeName="opacity" to="1" begin="2.59s" fill="freeze"/></text>
 <text x="20" y="140" fill="#e6edf3" opacity="0">[2001]  B.A. in Russian Language &amp; Literature<set attributeName="opacity" to="1" begin="3.92s" fill="freeze"/></text>
 <text x="20" y="162" fill="#8b949e" opacity="0">        Far Eastern Federal University, Hakodate Branch<set attributeName="opacity" to="1" begin="4.04s" fill="freeze"/></text>
 <text x="20" y="184" fill="#e6edf3" opacity="0">[2003]  Started my career as a systems engineer<set attributeName="opacity" to="1" begin="4.16s" fill="freeze"/></text>
@@ -19,7 +19,7 @@
 <text x="20" y="250" fill="#8b949e" opacity="0">          - Liaison between Japanese clients and Philippine offshore teams<set attributeName="opacity" to="1" begin="4.52s" fill="freeze"/></text>
 <text x="20" y="272" fill="#8b949e" opacity="0">          - Supported the launch of a FinTech startup<set attributeName="opacity" to="1" begin="4.64s" fill="freeze"/></text>
 <text x="20" y="316" fill="#3fb950" opacity="0">kojiro-ohara-1979@github:~$ <set attributeName="opacity" to="1" begin="5.26s" fill="freeze"/></text>
-<text x="255.20000000000002" y="316" fill="#e6edf3" clip-path="url(#c12)">cat ongoing.txt</text>
+<text x="255.20000000000002" y="316" fill="#e6edf3" opacity="0" clip-path="url(#c12)">cat ongoing.txt<set attributeName="opacity" to="1" begin="5.56s" fill="freeze"/></text>
 <text x="20" y="338" fill="#e6edf3" opacity="0">- Head of Service Development, Fleekdrive Inc. (since 2024, concurrent)<set attributeName="opacity" to="1" begin="6.96s" fill="freeze"/></text>
 <text x="20" y="360" fill="#e6edf3" opacity="0">- Driving DX initiatives<set attributeName="opacity" to="1" begin="7.08s" fill="freeze"/></text>
 <text x="20" y="382" fill="#e6edf3" opacity="0">- Defining development standards to raise quality<set attributeName="opacity" to="1" begin="7.20s" fill="freeze"/></text>
