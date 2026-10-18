@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="492" viewBox="0 0 820 492" role="img" aria-label="Kojiro Ohara terminal profile">
+<defs><clipPath id="c0"><rect x="255.20000000000002" y="36" height="22" width="0"><animate attributeName="width" values="0.0;8.4;16.8;25.2;33.6;42.0;70.4" keyTimes="0.0000;0.1667;0.3333;0.5000;0.6667;0.8333;1.0000" calcMode="discrete" begin="0.90s" dur="0.42s" fill="freeze"/></rect></clipPath><clipPath id="c3"><rect x="255.20000000000002" y="102" height="22" width="0"><animate attributeName="width" values="0.0;8.4;16.8;25.2;33.6;42.0;50.4;58.8;67.2;75.6;84.0;92.4;100.8;109.2;137.6" keyTimes="0.0000;0.0714;0.1429;0.2143;0.2857;0.3571;0.4286;0.5000;0.5714;0.6429;0.7143;0.7857;0.8571;0.9286;1.0000" calcMode="discrete" begin="2.59s" dur="0.98s" fill="freeze"/></rect></clipPath><clipPath id="c12"><rect x="255.20000000000002" y="300" height="22" width="0"><animate attributeName="width" values="0.0;8.4;16.8;25.2;33.6;42.0;50.4;58.8;67.2;75.6;84.0;92.4;100.8;109.2;117.6;146.0" keyTimes="0.0000;0.0667;0.1333;0.2000;0.2667;0.3333;0.4000;0.4667;0.5333;0.6000;0.6667;0.7333;0.8000;0.8667;0.9333;1.0000" calcMode="discrete" begin="5.56s" dur="1.05s" fill="freeze"/></rect></clipPath></defs>
+<rect width="820" height="492" rx="10" fill="#0d1117"/>
+<rect width="820" height="30" rx="10" fill="#161b22"/>
+<rect y="20" width="820" height="10" fill="#161b22"/>
+<circle cx="20" cy="15" r="6" fill="#ff5f56"/><circle cx="40" cy="15" r="6" fill="#ffbd2e"/><circle cx="60" cy="15" r="6" fill="#27c93f"/>
+<text x="410.0" y="20" fill="#8b949e" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" text-anchor="middle">kojiro-ohara-1979 — zsh</text>
+<g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="14" xml:space="preserve">
+<text x="20" y="52" fill="#3fb950" opacity="0">kojiro-ohara-1979@github:~$ <set attributeName="opacity" to="1" begin="0.60s" fill="freeze"/></text>
+<text x="255.20000000000002" y="52" fill="#e6edf3" clip-path="url(#c0)">whoami</text>
+<text x="20" y="74" fill="#e6edf3" opacity="0">Kojiro Ohara - Head of Service Development @ Fleekdrive Inc. / Solxyz Co., Ltd.<set attributeName="opacity" to="1" begin="1.67s" fill="freeze"/></text>
+<text x="20" y="118" fill="#3fb950" opacity="0">kojiro-ohara-1979@github:~$ <set attributeName="opacity" to="1" begin="2.29s" fill="freeze"/></text>
+<text x="255.20000000000002" y="118" fill="#e6edf3" clip-path="url(#c3)">cat career.log</text>
+<text x="20" y="140" fill="#e6edf3" opacity="0">[2001]  B.A. in Russian Language &amp; Literature<set attributeName="opacity" to="1" begin="3.92s" fill="freeze"/></text>
+<text x="20" y="162" fill="#8b949e" opacity="0">        Far Eastern Federal University, Hakodate Branch<set attributeName="opacity" to="1" begin="4.04s" fill="freeze"/></text>
+<text x="20" y="184" fill="#e6edf3" opacity="0">[2003]  Started my career as a systems engineer<set attributeName="opacity" to="1" begin="4.16s" fill="freeze"/></text>
+<text x="20" y="206" fill="#e6edf3" opacity="0">[2012]  Joined Solxyz Co., Ltd.<set attributeName="opacity" to="1" begin="4.28s" fill="freeze"/></text>
+<text x="20" y="228" fill="#8b949e" opacity="0">          - Custom software development for enterprise clients<set attributeName="opacity" to="1" begin="4.40s" fill="freeze"/></text>
+<text x="20" y="250" fill="#8b949e" opacity="0">          - Liaison between Japanese clients and Philippine offshore teams<set attributeName="opacity" to="1" begin="4.52s" fill="freeze"/></text>
+<text x="20" y="272" fill="#8b949e" opacity="0">          - Supported the launch of a FinTech startup<set attributeName="opacity" to="1" begin="4.64s" fill="freeze"/></text>
+<text x="20" y="316" fill="#3fb950" opacity="0">kojiro-ohara-1979@github:~$ <set attributeName="opacity" to="1" begin="5.26s" fill="freeze"/></text>
+<text x="255.20000000000002" y="316" fill="#e6edf3" clip-path="url(#c12)">cat ongoing.txt</text>
+<text x="20" y="338" fill="#e6edf3" opacity="0">- Head of Service Development, Fleekdrive Inc. (since 2024, concurrent)<set attributeName="opacity" to="1" begin="6.96s" fill="freeze"/></text>
+<text x="20" y="360" fill="#e6edf3" opacity="0">- Driving DX initiatives<set attributeName="opacity" to="1" begin="7.08s" fill="freeze"/></text>
+<text x="20" y="382" fill="#e6edf3" opacity="0">- Defining development standards to raise quality<set attributeName="opacity" to="1" begin="7.20s" fill="freeze"/></text>
+<text x="20" y="404" fill="#e6edf3" opacity="0">- Engineer education and training<set attributeName="opacity" to="1" begin="7.32s" fill="freeze"/></text>
+<text x="20" y="426" fill="#e6edf3" opacity="0">- Research &amp; development<set attributeName="opacity" to="1" begin="7.44s" fill="freeze"/></text>
+<text x="20" y="470" fill="#3fb950" opacity="0">kojiro-ohara-1979@github:~$ <set attributeName="opacity" to="1" begin="8.06s" fill="freeze"/></text>
+<rect x="257.20000000000005" y="458" width="8.4" height="16" fill="#e6edf3" opacity="0"><animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.5;1" dur="1s" begin="8.06s" repeatCount="indefinite"/></rect>
+</g>
+</svg>
